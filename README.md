@@ -1,0 +1,1 @@
+This project uses Python and the Black Scholes model
